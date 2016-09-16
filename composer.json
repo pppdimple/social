@@ -1,0 +1,12 @@
+{
+    "name": "mentorshiprocket/timezones",
+    "description": "Package development testing",
+    "authors": [
+        {
+            "name": "Paresh Patel",
+            "email": "paresh@mentorshiprocket.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
